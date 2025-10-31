@@ -1,0 +1,45 @@
+{
+    "target_year": 2035,
+    "top_predictions": [
+        {
+            "genre": "Action",
+            "predicted_percentage": 20.460721969604492
+        },
+        {
+            "genre": "Indie",
+            "predicted_percentage": 16.656068801879883
+        },
+        {
+            "genre": "RPG",
+            "predicted_percentage": 16.02422523498535
+        },
+        {
+            "genre": "Adventure",
+            "predicted_percentage": 12.23058795928955
+        },
+        {
+            "genre": "Casual",
+            "predicted_percentage": 9.38837718963623
+        },
+        {
+            "genre": "Simulation",
+            "predicted_percentage": 8.322943687438965
+        },
+        {
+            "genre": "Strategy",
+            "predicted_percentage": 5.161652565002441
+        },
+        {
+            "genre": "Early Access",
+            "predicted_percentage": 2.714568853378296
+        },
+        {
+            "genre": "Racing",
+            "predicted_percentage": 2.711636781692505
+        },
+        {
+            "genre": "Massively Multiplayer",
+            "predicted_percentage": 2.4303371906280518
+        }
+    ]
+}

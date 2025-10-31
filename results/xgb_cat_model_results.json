@@ -1,0 +1,45 @@
+{
+    "target_year": 2035,
+    "top_predictions": [
+        {
+            "category": "Family Sharing",
+            "predicted_percentage": 13.188912391662598
+        },
+        {
+            "category": "Single-player",
+            "predicted_percentage": 11.979214668273926
+        },
+        {
+            "category": "Steam Achievements",
+            "predicted_percentage": 9.017200469970703
+        },
+        {
+            "category": "Steam Cloud",
+            "predicted_percentage": 7.0998430252075195
+        },
+        {
+            "category": "Multi-player",
+            "predicted_percentage": 5.215602397918701
+        },
+        {
+            "category": "Co-op",
+            "predicted_percentage": 5.1569061279296875
+        },
+        {
+            "category": "Full controller support",
+            "predicted_percentage": 5.136157989501953
+        },
+        {
+            "category": "Steam Trading Cards",
+            "predicted_percentage": 4.663581848144531
+        },
+        {
+            "category": "Online Co-op",
+            "predicted_percentage": 4.590394496917725
+        },
+        {
+            "category": "PvP",
+            "predicted_percentage": 4.484749794006348
+        }
+    ]
+}

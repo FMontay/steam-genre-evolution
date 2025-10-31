@@ -1,0 +1,85 @@
+{
+    "target_year": 2035,
+    "top_predictions": [
+        {
+            "tag_triplet": [
+                "Survival",
+                "Multiplayer",
+                "Open World Survival Craft"
+            ],
+            "predicted_percentage": 3.0140058994293213
+        },
+        {
+            "tag_triplet": [
+                "Open World",
+                "Survival",
+                "Multiplayer"
+            ],
+            "predicted_percentage": 2.6259024143218994
+        },
+        {
+            "tag_triplet": [
+                "Battle Royale",
+                "Multiplayer",
+                "FPS"
+            ],
+            "predicted_percentage": 2.514866352081299
+        },
+        {
+            "tag_triplet": [
+                "Open World",
+                "Multiplayer",
+                "Open World Survival Craft"
+            ],
+            "predicted_percentage": 2.509186267852783
+        },
+        {
+            "tag_triplet": [
+                "MMORPG",
+                "RPG",
+                "Adventure"
+            ],
+            "predicted_percentage": 2.5088255405426025
+        },
+        {
+            "tag_triplet": [
+                "Open World",
+                "Survival",
+                "Open World Survival Craft"
+            ],
+            "predicted_percentage": 2.5088043212890625
+        },
+        {
+            "tag_triplet": [
+                "Open World",
+                "Massively Multiplayer",
+                "RPG"
+            ],
+            "predicted_percentage": 2.5077080726623535
+        },
+        {
+            "tag_triplet": [
+                "Action RPG",
+                "Action",
+                "RPG"
+            ],
+            "predicted_percentage": 2.5067241191864014
+        },
+        {
+            "tag_triplet": [
+                "Action RPG",
+                "Hack and Slash",
+                "RPG"
+            ],
+            "predicted_percentage": 1.4208406209945679
+        },
+        {
+            "tag_triplet": [
+                "Action RPG",
+                "RPG",
+                "Multiplayer"
+            ],
+            "predicted_percentage": 1.1707559823989868
+        }
+    ]
+}
